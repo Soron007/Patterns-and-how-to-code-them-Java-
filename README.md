@@ -1,4 +1,4 @@
-# PatternsAssignment
+# Patterns and how to code them (Java)
 
 
 This assignment has code for some pattern problems
